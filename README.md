@@ -1,5 +1,5 @@
 ### Vanakkam 👋
-Here are some ideas to get you started:
+
 - 👋 Hi, I'm Girish.
 - 🌱 I’m currently learning ML.
 - 📫 How to reach me: 
