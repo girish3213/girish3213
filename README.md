@@ -23,32 +23,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girish3213" />
 </a> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+white-space: pre-wrap;
 
 
 
