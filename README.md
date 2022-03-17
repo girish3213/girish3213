@@ -1,6 +1,9 @@
 ### Vanakkam 👋
 
 ![](https://komarev.com/ghpvc/?username=your-github-girish3213&color=blue)
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=girish3213" alt="a-ma-n" /></a> </p>
 - 👋 Hi, I'm Girish.
 - 🌱 I’m currently learning ML and looking forward to collabarate in projects.
 - 📫 How to reach me: 
