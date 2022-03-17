@@ -21,7 +21,12 @@
 </a>
 <a href="https://github.com/girish3213/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girish3213" />
-</a> \n
+</a> 
+
+
+
+
+
 ## Connect with me on:
 <p align="left">
   <a href="mailto: girish.murugan2021@vitstudent.ac.in"><img height="28" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
