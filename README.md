@@ -1,4 +1,4 @@
-### Vanakkam 👋
+# Vanakkam 👋
 
 ![](https://komarev.com/ghpvc/?username=your-github-girish3213&color=blue)
 
@@ -11,7 +11,7 @@
 
 
 - 👋 Hi, I'm Girish.
-- 🌱 I’m currently learning ML and looking forward to collabarate in projects.
+- 🌱 I’m currently learning ML, DL and looking forward to collabarate in projects.
 - 😄 Pronouns: He/him.
 - ⚡ Fun fact: "Dreamt" is the only English word that ends in the letters "mt"(empty)
 
@@ -24,7 +24,7 @@
 </a>
 
 
-
+\n
 ## Contact Me on:
 <p align="left">
   <a href="mailto: girish.murugan2021@vitstudent.ac.in"><img height="28" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
