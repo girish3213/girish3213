@@ -23,9 +23,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girish3213" />
 </a>
 
+<\n>
 
 
-## Contact Me on:
+
+## Connect with me on:
 <p align="left">
   <a href="mailto: girish.murugan2021@vitstudent.ac.in"><img height="28" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/girish0606/"><img height="28" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
