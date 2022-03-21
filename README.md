@@ -30,11 +30,9 @@ white-space: pre-wrap;
 ## Connect with me on:
 <p align="left">
   <a href="mailto: girish.murugan2021@vitstudent.ac.in"><img height="28" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/girish0606/"><img height="28" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/girish0606/"><img height="28" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  
  <a href="https://www.hackerrank.com/girish06062004"><img height="28" alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-  
-  <a href="https://www.instagram.com/girish_0.6/"><img height="28" alt="Instagram" src="https://img.shields.io/badge/-Instagram-2EC866?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   
  <a href="https://www.kaggle.com/girishmurugan"><img src="https://img.shields.io/badge/kaggle-%231DA1F2.svg?&style=for-the-badge&logo=kaggle&logoColor=white" height=28></a>
 
