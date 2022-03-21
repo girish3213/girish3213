@@ -34,6 +34,8 @@ white-space: pre-wrap;
  
  <a href="https://www.hackerrank.com/girish06062004"><img height="28" alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
   
+  <a href="https://www.instagram.com/girish_0.6/"><img height="28" alt="Instagram" src="https://img.shields.io/badge/-Instagram-2EC866?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  
  <a href="https://www.kaggle.com/girishmurugan"><img src="https://img.shields.io/badge/kaggle-%231DA1F2.svg?&style=for-the-badge&logo=kaggle&logoColor=white" height=28></a>
 
 </p>
